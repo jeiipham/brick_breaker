@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=Barrage(int)
+comment1.params=num
+comment1.target=java.awt.geom.Rectangle2D.Double\ getRectOf(int)
+comment10.params=e
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=num
+comment2.target=boolean\ getExpOf(int)
+comment3.params=num
+comment3.target=void\ explode(int)
+comment4.params=
+comment4.target=int\ getAmt()
+comment5.params=
+comment5.target=int\ getNumLeft()
+comment6.params=num
+comment6.target=int\ getXOf(int)
+comment7.params=num
+comment7.target=int\ getYOf(int)
+comment8.params=g
+comment8.target=void\ paintComponent(java.awt.Graphics)
+comment9.params=x\ y
+comment9.target=void\ launchNext(int,\ int)
+numComments=11

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=wav
+comment0.target=SoundPlayer(java.lang.String)
+comment1.params=
+comment1.target=void\ playSound()
+comment2.params=
+comment2.target=void\ loopSound()
+comment3.params=
+comment3.target=void\ stopSound()
+comment4.params=wav
+comment4.target=void\ playSound(java.lang.String)
+comment5.params=wav
+comment5.target=void\ loopSound(java.lang.String)
+numComments=6

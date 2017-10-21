@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Missile()
+comment1.params=
+comment1.target=java.awt.geom.Rectangle2D.Double\ getRect()
+comment2.params=
+comment2.target=boolean\ getLaunched()
+comment3.params=
+comment3.target=boolean\ getExp()
+comment4.params=x\ y
+comment4.target=void\ load(int,\ int)
+comment5.params=
+comment5.target=void\ travel()
+comment6.params=
+comment6.target=void\ explode()
+numComments=7

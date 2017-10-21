@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=Brick(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=java.awt.geom.Rectangle2D.Double\ getRect()
+comment2.params=
+comment2.target=int\ getLives()
+comment3.params=
+comment3.target=boolean\ hit()
+comment4.params=x\ y
+comment4.target=boolean\ hitTop(int,\ int)
+comment5.params=x\ y
+comment5.target=boolean\ hitBot(int,\ int)
+comment6.params=x\ y
+comment6.target=boolean\ hitLeft(int,\ int)
+comment7.params=x\ y
+comment7.target=boolean\ hitRight(int,\ int)
+numComments=8

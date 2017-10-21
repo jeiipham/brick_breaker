@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=cs\ rs
+comment0.target=BrickGroup(int,\ int)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=rect
+comment2.target=boolean\ checkIntersect(java.awt.geom.Rectangle2D.Double)
+comment3.params=x\ y
+comment3.target=int\ checkBricks(int,\ int)
+comment4.params=
+comment4.target=boolean\ ifBricksLeft()
+numComments=5
